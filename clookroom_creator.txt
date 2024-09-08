@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Add Teleport Button/Add Icon"}
+{"version":"1.0.2","news":"Compatible with QbCore and Qb-Clothing, Adding logs"}
