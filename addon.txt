@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Test"}
+{"version":"1.0.0","news":"Add Rcore Clothing Detection, Add new Debug system, Add Anti Model Detector and others fix"}
