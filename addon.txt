@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Add Rcore Clothing Detection, Add new Debug system, Add Anti Model Detector and others fix"}
+{"version":"1.2.2","news":"Refactored code, add new feature, auto detect fiveguard files, auto detect file (framework, other script etc..), securised files (anti client-loader)"}
