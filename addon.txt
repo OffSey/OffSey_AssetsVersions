@@ -1,1 +1,1 @@
-{"version":"1.2.3","news":"Added heartbeat system\nMinor changes on code"}
+{"version":"1.2.4","news":"Fix false ban for HeartBeat"}
