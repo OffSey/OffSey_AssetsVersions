@@ -1,1 +1,1 @@
-{"version":"1.2.4","news":"Fix false ban for HeartBeat"}
+{"version":"1.2.5","news":"Fix false ban for HeartBeat and add config pour Time and Thread (For false ban)"}
