@@ -1,1 +1,1 @@
-{"version":"1.2.5","news":"Fix false ban for HeartBeat and add config for Time and Thread (For false ban)"}
+{"version":"1.2.6","news":"Add character name limit, Add whitelist string character in name"}
