@@ -1,1 +1,1 @@
-{"version":"1.2.8","news":"Assign source to a variable so i won't be nil after recording player screen (Ty Upik)"}
+{"version":"1.2.9","news":"Add prevented crashing for Lumia in BlacklistedModel category config (To enable it, you must set it to True enable)"}
