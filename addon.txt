@@ -1,1 +1,1 @@
-{"version":"1.3.5","news":"Added Config for Anti Vehicle Spawner, Added Config for Replace native (check readme or dm offsey in discord), added anti vehicle spawner, added 'replaced' of native in scripts for give SetTempPermissions"}
+{"version":"1.3.6","news":"Update for patch susano car spawner"}
