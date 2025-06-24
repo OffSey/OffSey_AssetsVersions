@@ -1,1 +1,1 @@
-{"version":"1.3.8","news":"Patch Susano Explosions and patch safe explosions susano, replace just all server and client side"}
+{"version":"1.3.9","news":"Added Keyser Explosions Detection, Fix for false ban with Nil resources for vehicle (i have added DetectNilResources in config for disable option if you have false ban)"}
