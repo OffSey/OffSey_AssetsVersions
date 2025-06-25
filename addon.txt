@@ -1,1 +1,1 @@
-{"version":"1.3.9","news":"Added Keyser Explosions Detection, Fix for false ban with Nil resources for vehicle (i have added DetectNilResources in config for disable option if you have false ban)"}
+{"version":"1.4.0","news":"Added some detection for weapon exploit with distance, and added weapon give detection (beta)"}
