@@ -1,1 +1,1 @@
-{"version":"1.4.0","news":"Added some detection for weapon exploit with distance, and added weapon give detection (beta)"}
+{"version":"1.5","news":"Added some detection, added bypass native, use fgAddon help in your console, its like safe-events :)"}
