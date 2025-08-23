@@ -1,1 +1,0 @@
-{"version":"1.4.0","news":"Added some detection for weapon exploit with distance, and added weapon give detection (beta)"}
