@@ -1,4 +1,4 @@
 {
     "version": "1.5.0",
-    "news": "Added checks for weapon distance and give (beta)\n- Added jg-dealerships and jg-advancedgarages bypasses\nAdded rcore_clothing bypass\nAdded protection against unnetworked objects\nAdded protection against unnetworked explosion\nUpdated Anti-Throw\nChanged some files and resource structure\nAdded module for XSS prevention to incloude in your reosurces with ^2shared_script '@addon/xss.lua'^0 in the top of the fxmanifest\nFixed ACE permissions\nAdded automatic bypass on native usage (use the command fgAddmon)"
+    "news": "- Added checks for weapon distance and give (beta)\n- Added jg-dealerships and jg-advancedgarages bypasses\n- Added rcore_clothing bypass\n- Added protection against unnetworked objects\n- Added protection against unnetworked explosion\n- Updated Anti-Throw\n- Changed some files and resource structure\n- Added module for XSS prevention to incloude in your reosurces with shared_script '@addon/xss.lua' in the top of the fxmanifest\n- Fixed ACE permissions\n- Added automatic bypass on native usage (use the command fgAddmon)"
 }
