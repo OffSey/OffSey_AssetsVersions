@@ -1,4 +1,4 @@
 {
-    "version": "1.5.1",
-    "news": " - Fixed Anti Give Weapon\n - Added some preconfigured bypass\n - Added protection against unnetworked objects\n - Added protection against unnetworked explosion\n - Updated Anti Throw Vehicles\n - Fixed automatic bypass with native"
+    "version": "1.5.2",
+    "news": " - Improved heartbeat system\n - Fixed EasyPermissions for QBCore (framework permission)\n - Renamed command from fgAddon to fga\n - Added unban command to unban all or a range of players\n - Improved EasyBypass security and fixed some bugs\n - Fixed some false bans in VehicleProtection for certain scripts and added specific config\n - Added protection against give/remove weapon event\n - Added auto xss protection to sanitize event argouments with relative command to install id on resources (BETA)\n"
 }
