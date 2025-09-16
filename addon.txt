@@ -1,4 +1,4 @@
 {
-    "version": "1.5.5",
-    "news": " - Fixed error tried to call nil value Warn on bypassNative mudole\n - Optimized check for attached vehicles\n - Fixed error for Anti xss module (beta)"
+    "version": "1.5.6",
+    "news": " - Fixed error tried to call nil value Warn on bypassNative mudole\n - Fixed check for attached vehicles logic (anti throw)"
 }
